@@ -1,0 +1,6 @@
+fastai
+torch
+gradio
+numpy
+pandas
+scikit-image
